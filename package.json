@@ -1,6 +1,6 @@
 {
   "name": "flux-util",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A few simple utility functions that I use for Flux",
   "main": "lib/flux-util.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Brent Vatne <brentvatne@gmail.com> (https://github.com/brentvatne)",
   "license": "ISC",
   "dependencies": {
-    "wolfy87-eventemitter": "4.2.11",
+    "events": "1.0.2",
     "flux": "^2.0.0",
     "underscore": "^1.8.2"
   },
