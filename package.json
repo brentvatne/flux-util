@@ -1,0 +1,28 @@
+{
+  "name": "flux-util",
+  "version": "0.0.1",
+  "description": "A few simple utility functions for Flux",
+  "main": "lib/flux-util.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "unmockedModulePathPatterns": [
+      "flux"
+    ]
+  },
+  "author": "Brent Vatne <brentvatne@gmail.com> (https://github.com/brentvatne)",
+  "license": "ISC",
+  "dependencies": {
+    "wolfy87-eventemitter": "4.2.11",
+    "flux": "^2.0.0",
+    "lodash": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brentvatne/flux-util.git"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.4.0"
+  }
+}
