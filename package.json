@@ -1,6 +1,6 @@
 {
   "name": "flux-util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A few simple utility functions that I use for Flux",
   "main": "lib/flux-util.js",
   "scripts": {
