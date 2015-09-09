@@ -1,6 +1,6 @@
 {
   "name": "flux-util",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A few simple utility functions that I use for Flux",
   "main": "lib/flux-util.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "events": "1.0.2",
-    "flux": "^2.0.0",
-    "underscore": "^1.8.2"
+    "flux": "2.0.3",
+    "underscore": "1.8.3"
   },
   "repository": {
     "type": "git",
